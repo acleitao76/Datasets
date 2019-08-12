@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20190811</folder>
+	<filename>Move_for_cancer7748.JPG</filename>
+	<path>/Volumes/Dados/Users/acleitao/PycharmProjects/TensorFlowAIBibNumberNew/Images/20190811/Move_for_cancer7748.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4080</width>
+		<height>2720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bibtag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1952</xmin>
+			<ymin>820</ymin>
+			<xmax>2096</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+</annotation>
